@@ -1,4 +1,2 @@
 # GITACTIVITY
-
-
-hi
+hello, this is my git class.
