@@ -38,7 +38,7 @@ README.md                     # Documentation for the project
 ### Prerequisites
 Ensure the following are installed on your system:
 - Python 3.8 or above
-- Required Python libraries (listed in `requirements.txt`)
+
 
 ### Installation
 1. **Clone the repository**:
