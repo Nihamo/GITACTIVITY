@@ -1,7 +1,7 @@
-# GIT-ACTIVITY: LIBRARY MANAGEMENT SYSTEM
+# GIT ACTIVITY: LIBRARY MANAGEMENT SYSTEM
 
 ## Overview
-The **LMS** project is a Python-based Library Management System designed to simplify and automate the management of books, users, and borrowing/returning operations in a library. It is modular, extensible, and provides the core functionalities required for managing a library efficiently.
+The **LMS** project is a Python-based Library Management System designed to simplify and automate the management of books, users, and borrowing/returning operations in a library. It is modular, and extensible, and provides the core functionalities required for managing a library efficiently.
 
 ## Features
 - **Add Book:** Add new books to the library's inventory.
