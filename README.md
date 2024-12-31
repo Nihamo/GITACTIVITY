@@ -28,6 +28,7 @@ features/
     return_book.py            # Manages book returns
     search_book.py            # Implements search functionality
     update_book.py            # Updates book information
+    frontend.html             #Simple frontend using HTML and css
 run.py                        # Entry point for the application
 README.md                     # Documentation for the project
 ```
