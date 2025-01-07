@@ -1,6 +1,12 @@
 from features.database import execute_query
 
-def remove_book(book_id):
-    query = "DELETE FROM books WHERE book_id = %s"
-    execute_query(query, (book_id,))
-    print(f"Book with ID {book_id} removed successfully!")
+def remove_book(title):
+    try:
+        query = "DELETE FROM books WHERE title = %s"
+        params = (title,)
+        execute_query(query, params) 
+        print(f"Book with title '{title}' removed successfully!")
+        return True
+    except Exception as e:
+        print(f"Error removing book: {e}")
+        return False
