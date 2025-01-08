@@ -5,12 +5,9 @@ The **LMS** project is a Python-based Library Management System designed to simp
 
 ## Features
 - **Add Book:** Add new books to the library's inventory.
-- **Borrow Book:** Manage borrowing operations and track borrowed books.
-- **Return Book:** Handle the return process of borrowed books.
 - **Search Book:** Search for books using various criteria like title, author, etc.
 - **Update Book:** Update details of existing books in the library.
 - **Remove Book:** Remove books that are no longer available.
-- **Overdue Management:** Track overdue books and penalties for delayed returns.
 - **User Management:** Manage user details, roles, and access permissions.
 - **Database Integration:** Centralized storage for books, users, and transaction records.
 
@@ -70,14 +67,7 @@ Follow the on-screen instructions to interact with the system.
 1. **Book Management**:
    - Add, search, update, and remove books in the library's inventory.
 
-2. **Borrowing and Returning**:
-   - Borrow books by specifying the user and book details.
-   - Return books while updating the records accordingly.
-
-3. **Overdue Tracking**:
-   - Monitor overdue books and notify users about penalties for delayed returns.
-
-4. **User Management**:
+2. **User Management**:
    - Add and manage library users, assign roles, and control access permissions.
 
 ## Contributing
